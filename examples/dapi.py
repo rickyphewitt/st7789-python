@@ -42,4 +42,4 @@ with open(f'{image_folder}/dsny.image', 'wb') as f:
 
 
 
-os.system(f'{image_folder}/image.py {image_folder}/dsny.image')
+os.system(f'{image_folder}/dsp-image.py {image_folder}/dsny.image')
